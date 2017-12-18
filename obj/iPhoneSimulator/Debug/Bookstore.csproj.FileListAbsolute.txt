@@ -3,7 +3,7 @@
 /Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/Bookstore.csproj.CoreCompileInputs.cache
 /Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/Bookstore.exe
 /Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/Bookstore.pdb
-/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_PartialAppManifest.items
-/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/actool/_BundleResourceWithLogicalName.items
-/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-10.3.1/optimized/
+/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
+/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/aydenb1/Desktop/repos/Bookstore/Bookstore/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
